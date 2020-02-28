@@ -8,7 +8,7 @@ rotaci kolem osy Z tak, aby plocha obdélníkové podstavy pomyslného opsaného
 hranolu objektu byla co nejmenší – hrany pomyslného opsaného hranolu jsou
 rovnoběžné s osami X, Y nebo Z.
 
-Do repozitáře vytvořeného na odkazu https://classroom.github.com/a/-qWs4zZo
+Do repozitáře vytvořeného na odkazu https://classroom.github.com/a/VKC99AyJ
 dejte soubor `bestrot` s příponou `c`, `cpp`, `py` nebo `rb` podle zvoleného
 jazyka (např. `bestrot.c`). Je povoleno použít pouze standardní knihovnu jazyka
 a ADMesh (u Ruby RADMesh).
