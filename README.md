@@ -1,5 +1,8 @@
 # ADMesh Assignment
 
+Před odevzdáním úlohy přes GitHub je třeba
+[projevit souhlas se zpracováním  osobních údajů](https://courses.fit.cvut.cz/BI-3DT/gdpr.html).
+
 Za tři body na cvičení naprogramujte program v jazyce C, C++,
 [Python](https://pypi.org/project/admesh/) nebo
 [Ruby](https://rubygems.org/gems/radmesh/),
@@ -8,7 +11,7 @@ rotaci kolem osy Z tak, aby plocha obdélníkové podstavy pomyslného opsaného
 hranolu objektu byla co nejmenší – hrany pomyslného opsaného hranolu jsou
 rovnoběžné s osami X, Y nebo Z.
 
-Do repozitáře vytvořeného na odkazu https://classroom.github.com/a/q6J5Ls4N
+Do repozitáře vytvořeného na odkazu https://classroom.github.com/a/Frv95l6M
 dejte soubor `bestrot` s příponou `c`, `cpp`, `py` nebo `rb` podle zvoleného
 jazyka (např. `bestrot.c`). Je povoleno použít pouze standardní knihovnu jazyka
 a ADMesh (u Ruby RADMesh).
