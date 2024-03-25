@@ -24,9 +24,8 @@ Ilustrační obrázek z Netfabbu ukazující opsaný hranol s obdélníkovou pod
 
 Program vypíše na standardní výstup úhel otočení (ve stupních), obsah podstavy
 opsaného hranolu (ten nejlepší nalezený), a do souboru zadaného druhým
-argumentem (z příkazové řádky) uloží orotovaný soubor v takovém formátu
-(ASCII/binary), v jakém byl načten
-vstupní soubor.
+argumentem (z příkazové řádky) uloží orotovaný soubor v libovlném STL formátu
+(ASCII/binary).
 
 Příklad výstupu:
 
